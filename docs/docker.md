@@ -35,5 +35,5 @@ sudo chmod +x /usr/local/bin/docker-compose
 
 ## 参考文献
 
-https://docs.docker.com/engine/install/ubuntu/
-https://docs.docker.com/engine/install/linux-postinstall/
+- https://docs.docker.com/engine/install/ubuntu/
+- https://docs.docker.com/engine/install/linux-postinstall/
