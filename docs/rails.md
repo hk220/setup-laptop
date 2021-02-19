@@ -9,6 +9,12 @@ rails new [project name] -B
 |:---------------:|:--------------------------------------------------:|
 |ｰB, --skip-bundle|Railsプロジェクト作成時にbundle installを行わないようにする|
 
+## vender/bundle以下にbundleをインストールする
+
+```bash
+bundle install --path vendor/bundle
+```
+
 ## 参考文献
 
 - https://qiita.com/yuitnnn/items/b45bba658d86eabdbb26
