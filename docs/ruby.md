@@ -26,7 +26,7 @@ rbenv global 2.7.2
 ## railsのインストール
 
 ```bash
-sudo apt-get install -y libsqlite3-dev
+sudo apt-get install -y libsqlite3-dev nodejs
 gem install rails
 ```
 
