@@ -17,7 +17,7 @@ sudo apt install nodejs
 ## yarnのインストール
 
 ```bash
-npm install --global yarn
+sudo npm install --global yarn
 ```
 
 ## 参考文献
