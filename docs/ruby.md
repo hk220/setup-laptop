@@ -19,7 +19,7 @@ git clone https://github.com/rbenv/ruby-build.git "$(rbenv root)"/plugins/ruby-b
 ## ruby 2.7.2のインストール
 
 ```bash
-rbenv install 2.7.3
+rbenv install 2.7.2
 ```
 
 ## 参考文献
