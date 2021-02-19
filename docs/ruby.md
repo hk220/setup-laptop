@@ -20,6 +20,14 @@ git clone https://github.com/rbenv/ruby-build.git "$(rbenv root)"/plugins/ruby-b
 
 ```bash
 rbenv install 2.7.2
+rbenv global 2.7.2
+```
+
+## railsのインストール
+
+```bash
+sudo apt-get install -y libsqlite3-dev
+gem install rails
 ```
 
 ## 参考文献
