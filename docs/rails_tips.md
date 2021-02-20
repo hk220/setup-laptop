@@ -1,5 +1,7 @@
 # Rails Tips
 
+[Rubyのセットアップ](ruby.md)が完了していること
+
 ## プロジェクトの作成
 
 ```bash
