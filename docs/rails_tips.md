@@ -11,7 +11,9 @@ rails new [project name] -B
 |:---------------:|:--------------------------------------------------:|
 |ｰB, --skip-bundle|Railsプロジェクト作成時にbundle installを行わないようにする|
 
-## vender/bundle以下にbundleをインストールする
+## vender/bundle以下にgemをインストールする
+
+vender/bundle以下にgemをインストールすることで、solargraphといったツールでgemの中のコードにジャンプできるようになる。
 
 ```bash
 bundle install --path vendor/bundle
