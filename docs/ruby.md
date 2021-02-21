@@ -30,6 +30,12 @@ sudo apt-get install -y libsqlite3-dev nodejs
 gem install rails
 ```
 
+## その他gemのインストール
+
+```bash
+gem install solargraph
+```
+
 ## 参考文献
 
 - https://github.com/rbenv/rbenv#installing-ruby-versions
