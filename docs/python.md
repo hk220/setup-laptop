@@ -1,4 +1,4 @@
-# Pythonのセットアップ
+# Pythonのセットアップ(deprecated)
 
 ## pyenvのインストール
 
