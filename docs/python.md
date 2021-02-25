@@ -13,8 +13,8 @@ source ~/.profile
 ## python 3.9のインストール
 
 ```bash
-pyenv install 3.9
-pyenv global 3.9
+pyenv install 3.9.2
+pyenv global 3.9.2
 ```
 
 ## 参考文献
